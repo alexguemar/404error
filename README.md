@@ -55,5 +55,5 @@ This application/site was created as a submission to a [DevChallenges](https://d
 ## Contact
 
 - Website [your-website.com](https://www.instagram.com/fguemarm/?hl=es)
-- GitHub [@your-username](https://github.com/alexguemar)
-- Twitter [@your-twitter](https://twitter.com/GuemarSnst)
+- GitHub [@alexguemar](https://github.com/alexguemar)
+- Twitter [@GuemarSnst](https://twitter.com/GuemarSnst)
